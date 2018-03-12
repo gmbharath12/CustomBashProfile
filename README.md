@@ -1,2 +1,2 @@
-# CustomBashProfile
-# cat ~/.bash_profile
+ CustomBashProfile
+ cat ~/.bash_profile
