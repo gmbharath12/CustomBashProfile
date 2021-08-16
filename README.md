@@ -1,6 +1,6 @@
 CustomBashProfile
  
-cat ~/.bash_profile
+`cat ~/.bash_profile`
  
 No matter which shell Apple sets for you as the default, you can change it with one of two methods:
 
